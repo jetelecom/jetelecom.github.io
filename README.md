@@ -3,5 +3,5 @@ Website
 
 Estamos em construção!
 
-contato
+contato: 
 (82) 3378-2220 / 98871-7970
